@@ -5,5 +5,5 @@ GANs consist of a generator and a discriminator trained simultaneously by an adv
 
 For training the Generative Adversarial Network the SIDD dataset will be used. The GAN, if trained for a small number of epochs, gets good results in denoising the images, but the color palette of the output images is heavily affected and the image washes off over time. To get rid of this effect, the final 3x3 filter that gets generated can be normalized for better results.
 
-![](https://github.com/Adamo-afk/Denoising-images-using-GAN/assets/77570313/9f29e9b9-98fb-4cae-ba79-332618f7b955)
+![image](https://github.com/Adamo-afk/Denoising-images-using-GAN/assets/77570313/9f29e9b9-98fb-4cae-ba79-332618f7b955)
 
